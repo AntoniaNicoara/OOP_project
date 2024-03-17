@@ -1,0 +1,7 @@
+
+-----------------------------------------------
+Nume traseu:Montan
+Lungime traseu in km:12
+Numar ture de efectuat pe traseu:1
+Istoric timpi ture(in secunde):234 
+-----------------------------------------------
